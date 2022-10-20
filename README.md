@@ -2,8 +2,8 @@
 <h3 align="center">A mobile software engineer from Poland 🇵🇱</h3>
 
 ## 💬 Ask me about
-- Mobile development (iOS, Android, Flutter)
-- Building bridges between teams
+- Mobile development (iOS, Android, Flutter) 📱
+- Building bridges between teams 🌁
 - SDLC
 - Kraków (my hometown) history - I love reading stories or listening to them from the elder
 
