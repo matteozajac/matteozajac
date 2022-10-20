@@ -18,4 +18,4 @@
 
 ## 📚 Learning
 - Advanced SwiftUI with Combine
-- American and Italian culture and history
+- American 🇺🇸 and Italian 🇮🇹 culture and history
