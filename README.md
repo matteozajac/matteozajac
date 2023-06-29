@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
-<h3 align="center">A mobile software engineer from Poland 🇵🇱</h3>
+<h3 align="center">A mobile engineer manager from Poland 🇵🇱</h3>
 
 ## 💬 Ask me about
 - Mobile development (iOS, Android, Flutter) 📱
